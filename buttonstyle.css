@@ -1,0 +1,16 @@
+
+body{
+    background-image: url('../images/mrjosh.jpg');
+    background-position: center;
+    background-size: auto;
+    overflow: auto;
+}
+li{
+    color: aquamarine;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+    display: list-item;
+}
+a{
+    color: greenyellow;
+}
